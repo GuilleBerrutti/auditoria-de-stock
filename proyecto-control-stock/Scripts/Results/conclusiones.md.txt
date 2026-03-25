@@ -9,6 +9,6 @@ Tras la ejecución del script de auditoría sobre la base de datos **Northwind**
 
 ---
 ### 📊 Evidencia de Ejecución
-![Captura de pantalla de la Auditoría de Stock](resultado_auditoria.png)
+![Captura de pantalla de la Auditoría de Stock](resultado_stock.png)
 
 > **Nota:** La imagen superior muestra el resultado real de la consulta, donde se validan las etiquetas de estado y el cálculo total por producto.
