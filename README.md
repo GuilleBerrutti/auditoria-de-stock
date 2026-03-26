@@ -18,7 +18,6 @@ A continuación, se muestra la ejecución de la consulta donde se observa el est
 <details>
   <summary>💰 Auditoría de Stock (Cálculos)</summary>
   <br>
-  <p>🔴 y 🟡 Representan un riesgo de pérdida de ventas.</p>
   <img src="./Scripts/Results/resultado_stock.png" alt="Resultado" width="600">
 </details>
 
