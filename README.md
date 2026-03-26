@@ -19,7 +19,7 @@ A continuación, se muestra la ejecución de la consulta donde se observa el est
   <summary>🎯 Ver stock  (Like/Between)</summary>
   <br>
   <p>Aplicación de filtros específicos para segmentar el catálogo de productos según requerimientos de marketing.</p>
-  <img src="./Results/resultado_stock.png" alt="stock" width="600">
+  <img src="./Results/resultado_stock.png" alt="./Results/resultado_stock.png" width="600">
 </details>
 
 ---
