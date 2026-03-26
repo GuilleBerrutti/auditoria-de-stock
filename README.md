@@ -18,7 +18,7 @@ A continuación, se muestra la ejecución de la consulta donde se observa el est
 <details>
   <summary>💰 Auditoría de Stock (Cálculos)</summary>
   <br>
-  <img src="./Scripts/Results/resultado_stock.png" alt="Resultado" width="600">
+  <img src="./Results/resultado_stock.png" alt="Resultado" width="600">
 </details>
 
 ---
