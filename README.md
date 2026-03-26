@@ -12,27 +12,27 @@
 
 ---
 
-## 📊 Resultado del Análisis
-A continuación, se muestra la ejecución de la consulta donde se observa el estado del inventario:
+## 📊 Resultado y Evidencia del Análisis
+Para ver cómo se transforman estos conceptos en datos reales, puedes consultar los siguientes recursos:
+
+* **[📄 Ver Script SQL Completo](./Scripts/tu_script_sql.sql)**: Aquí puedes revisar la lógica de los `CASE WHEN` y el cálculo de la valorización.
+* **[🖼️ Ver Captura del Resultado Final](./Scripts/Results/resultado_stock.png)**: Visualización del semáforo de inventario (Rojo, Amarillo, Verde).
 
 <details>
-  <summary>💰 Auditoría de Stock (Cálculos)</summary>
+  <summary>🔍 Vista Rápida del Reporte (Click para desplegar)</summary>
   <br>
-  <img src="./proyecto-control-stock/Scripts/Results/resultado_stock.png?raw=true" alt="Resultado" width="600">
+  <p align="center">
+    <img src="./Scripts/Results/resultado_stock.png" alt="Resultado Auditoría" width="800">
+  </p>
 </details>
 
 ---
 
-## 💡 Conclusiones
-1. **Prioridad Alta**: Los productos en 🔴 y 🟡 representan un riesgo de pérdida de ventas.
-2. **Eficiencia**: El uso de SQL automatiza un proceso que antes requería revisión manual producto por producto.
-
----
-
 ## 💡 Conclusiones del Análisis
+Basado en el reporte generado (ver imagen arriba), se determinaron las siguientes acciones estratégicas:
+
 1. **Acción Inmediata**: Los productos marcados en 🔴 requieren orden de compra hoy mismo para evitar faltantes.
-2. **Optimización de Caja**: Los productos en 🟢 sugieren que se puede pausar su compra, liberando presupuesto para otras áreas.
-3. **Automatización**: Este script permite que el equipo de compras obtenga una lista de prioridades en segundos, eliminando errores manuales.
+2. **Optimización de Caja**: Los productos en 🟢 sugieren que se puede pausar su compra, liberando presupuesto.
+3. **Automatización**: Este script permite que el equipo de compras obtenga una lista de prioridades en segundos.
 
 ---
-🚀 *Proyecto desarrollado como parte de mi formación como Analista de Datos.*
