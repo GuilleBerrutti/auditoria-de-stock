@@ -22,7 +22,7 @@ Para ver cómo se transforman estos conceptos en datos reales, puedes consultar 
   <summary>🔍 Vista Rápida del Reporte (Click para desplegar)</summary>
   <br>
   <p align="center">
-    <img src="./Scripts/Results/resultado_stock.png?" alt="Resultado Auditoría" width="800">
+    <img src="proyecto-control-stock/Scripts/Results/resultado_stock.png?" alt="Resultado Auditoría" width="800">
   </p>
 </details>
 
